@@ -1,5 +1,6 @@
 # Blinkit-Smart-Cart
-<img width="918" height="505" alt="image" src="https://github.com/user-attachments/assets/554d297b-acc7-4e2f-8728-2c56dfc3f6bc" />
+<img width="768" height="431" alt="image" src="https://github.com/user-attachments/assets/e6fcba99-9256-4edc-8991-3438d31427ad" />
+
 
 > *"Don't just shop faster. Shop smarter."*
 > *"Helping users remember what they need before they checkout."*
@@ -154,9 +155,9 @@ This increases exposure to categories beyond traditional grocery purchases.
 
 ## User Personas
 
-### Rahul, 28 — Software Engineer
+### Omkar, 30 — Software Engineer
 
-**Location:** Bangalore
+**Location:** Gurgaon
 
 #### Characteristics
 
@@ -171,9 +172,9 @@ Frequently forgets items that could have been bundled into previous orders.
 
 ---
 
-### Priya, 32 — Project Manager
+### Shreya, 25 — Project Manager
 
-**Location:** Jaipur
+**Location:** Banglore
 
 #### Characteristics
 
